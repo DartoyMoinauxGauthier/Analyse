@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 OPR/123.0.0.0 (Edition std-2)" version="29.0.3">
   <diagram name="Page-1" id="yfb47FqV7-BvIHnoYEMT">
-    <mxGraphModel dx="332371" dy="342993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="404609" dy="395143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -592,6 +592,230 @@
         </mxCell>
         <mxCell id="DOthWygcburWT9JBaI27-170" value="Un adhérent (déjà inscrit) souhaite emprunter un livre auprès de la bibliothécaire:&lt;div&gt;CAS 1: Le livre est disponible et l&#39;adhérent peut l&#39;emprunter -&amp;gt; la bibliiothécaire enregistre l&#39;emprunt&lt;/div&gt;&lt;div&gt;CAS 2: le livre n&#39;est pas disponible l&#39;hadérent ne peut pas enprumter&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="2520" width="1310" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-171" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1350" y="3370" as="sourcePoint" />
+            <mxPoint x="1660" y="2910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1150" y="3330" />
+              <mxPoint x="960" y="2990" />
+              <mxPoint x="1650" y="3360" />
+              <mxPoint x="1550" y="3160" />
+              <mxPoint x="1150" y="2890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-193" value="Étudiant" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="4250" width="150" height="888" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-194" value="Bibliothèque" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1556" y="4250" width="150" height="888" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-195" value="Système de Gestion" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1756" y="4250" width="159" height="888" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-196" value="Livre" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1965" y="4250" width="150" height="888" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-197" value="Étudiant" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="4250" width="150" height="888" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-198" value="Système" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="4250" width="150" height="888" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-199" value="Présente la carte étudiante" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-197" target="DOthWygcburWT9JBaI27-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2000" y="4357" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-200" value="Vérifie la validité de la carte étudiante" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-194" target="DOthWygcburWT9JBaI27-198">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2097" y="4409" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-201" value="Carte valide" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-198" target="DOthWygcburWT9JBaI27-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2100" y="4461" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-202" value="Carte vérifiée" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-194" target="DOthWygcburWT9JBaI27-193">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1510" y="4513" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-203" value="Demande d&#39;emprunt d&#39;un livre" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-197" target="DOthWygcburWT9JBaI27-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2000" y="4565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-204" value="Vérifie la disponibilité du livre" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-194" target="DOthWygcburWT9JBaI27-198">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2097" y="4617" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-205" value="Livre disponible" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-198" target="DOthWygcburWT9JBaI27-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2100" y="4669" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-206" value="Livre disponible" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-194" target="DOthWygcburWT9JBaI27-193">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1510" y="4721" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-207" value="Confirme l&#39;emprunt" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-197" target="DOthWygcburWT9JBaI27-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2000" y="4773" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-208" value="Enregistre l&#39;emprunt" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-194" target="DOthWygcburWT9JBaI27-198">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2097" y="4825" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-209" value="Emprunt enregistré" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-198" target="DOthWygcburWT9JBaI27-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2100" y="4877" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-210" value="Emprunt validé, voici le livre" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-194" target="DOthWygcburWT9JBaI27-193">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1510" y="4929" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-211" value="Prend le livre" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-197" target="DOthWygcburWT9JBaI27-196">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2204" y="4981" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-212" value="Livre pris, retour dans 2 semaines" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-196" target="DOthWygcburWT9JBaI27-197">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2201" y="5033" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-213" value="Étudiant" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1785" y="5160" width="121" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-214" value="Carte étudiante" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1759" y="5288" width="174" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-215" value="Emprunter un livre" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1748" y="5416" width="195" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-216" value="Choisir un livre" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1762" y="5520" width="168" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-217" value="Confirmer l&#39;emprunt" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1743" y="5624" width="205" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-218" value="Prendre le livre" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1485" y="5764" width="171" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-219" value="Remplir le bulletin d&#39;emprunt" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="5880" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-220" value="Retourner le bulletin à la bibliothèque" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="6008" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-221" value="Fin de l&#39;emprunt" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1481" y="6136" width="177" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-222" value="Notification de disponibilité" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1716" y="5752" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-223" value="Choisir un autre livre" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1822" y="5892" width="211" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-224" value="Demande" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-213" target="DOthWygcburWT9JBaI27-214">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-225" value="Validée" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-214" target="DOthWygcburWT9JBaI27-215">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-226" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-215" target="DOthWygcburWT9JBaI27-216">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-227" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-216" target="DOthWygcburWT9JBaI27-217">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-228" value="Livre disponible" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-217" target="DOthWygcburWT9JBaI27-218">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1570" y="5715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-229" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-218" target="DOthWygcburWT9JBaI27-219">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-230" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-219" target="DOthWygcburWT9JBaI27-220">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-231" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-220" target="DOthWygcburWT9JBaI27-221">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-232" value="Livre non disponible" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-217" target="DOthWygcburWT9JBaI27-222">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-233" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-222" target="DOthWygcburWT9JBaI27-223">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1846" y="5855" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOthWygcburWT9JBaI27-234" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=0;entryX=0.84;entryY=1;rounded=0;" edge="1" parent="1" source="DOthWygcburWT9JBaI27-223" target="DOthWygcburWT9JBaI27-217">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2011" y="5855" />
+              <mxPoint x="2011" y="5715" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
