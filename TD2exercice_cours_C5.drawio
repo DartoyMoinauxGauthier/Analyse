@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 OPR/123.0.0.0 (Edition std-2)" version="29.0.3">
   <diagram name="Page-1" id="yfb47FqV7-BvIHnoYEMT">
-    <mxGraphModel dx="330717" dy="340655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="331544" dy="341824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -590,7 +590,7 @@
             <mxPoint x="259.94974911690224" y="3735.9497491169022" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DOthWygcburWT9JBaI27-170" value="Un adhérent (déjà inscrit) souhaite emprunter un livre auprès de la bibliothécaire:&lt;div&gt;CAS 1: Le livre est disponible et l&#39;adhérent peut l&#39;emprunter -&amp;gt; la bibliiothécaire&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DOthWygcburWT9JBaI27-170" value="Un adhérent (déjà inscrit) souhaite emprunter un livre auprès de la bibliothécaire:&lt;div&gt;CAS 1: Le livre est disponible et l&#39;adhérent peut l&#39;emprunter -&amp;gt; la bibliiothécaire enregistre l&#39;emprunt&lt;/div&gt;&lt;div&gt;CAS 2:&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="2520" width="1310" height="270" as="geometry" />
         </mxCell>
       </root>
